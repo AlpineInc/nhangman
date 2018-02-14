@@ -1,0 +1,22 @@
+{
+  "name": "nhangman",
+  "version": "1.0.0",
+  "description": "Node.js based Hangman game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlpineInc/nhangman.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlpineInc/nhangman/issues"
+  },
+  "homepage": "https://github.com/AlpineInc/nhangman#readme",
+  "dependencies": {
+    "inquirer": "^5.1.0"
+  }
+}
