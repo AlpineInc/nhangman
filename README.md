@@ -5,7 +5,7 @@ nhangman is a command line hangman game. You will be asked to guess a list of an
 # Open issues:
 https://github.com/AlpineInc/nhangman/issues/1
  
-Given below is an extract of games stdout:
+# Given below is an extract of games stdout:
 
 nhangman[master] >node index.js
 
