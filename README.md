@@ -2,6 +2,8 @@
 
 nhangman is a command line hangman game. You will be asked to guess a list of animals. You have 10 chances to correctly guess each animal. Good luck. 
 
+# Open issues:
+https://github.com/AlpineInc/nhangman/issues/1
  
 Given below is an extract of games stdout:
 
